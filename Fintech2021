@@ -1,0 +1,11 @@
+#total of meal without taxes 
+meal = 20.00
+# calculate taxes 
+tax = 0.0825
+# Tip percentage 
+tip = 0.15
+
+meal = meal + meal*0.0825
+
+total = meal
+print(total)
